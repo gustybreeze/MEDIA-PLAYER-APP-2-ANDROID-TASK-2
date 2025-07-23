@@ -13,21 +13,23 @@
 *MENTOR:* NEELA SANTHOSH KUMAR
 
 
+
 **Media Player App**
+
 This is a simple Python-based media player that plays MP3 audio files using a graphical interface. It uses the pygame library for audio and tkinter for the GUI.
 
 
 **Project Structure**
+
 media_player_app.py - The main script that runs the media player.
 
   media_player - A folder containing audio files.
-
-      sample.mp3 -  A sample MP3 file included for demo purposes.
 
 README.md - Documentation and usage instructions.
 
 
 **Features:**
+
 - Play and stop MP3 audio.
 
 - Simple and user-friendly interface.
@@ -36,12 +38,14 @@ README.md - Documentation and usage instructions.
 
 
 **Requirements:**
+
 - Python 3.x installed on your system.
 
 - pygame library installed (pip install pygame from terminal or command prompt).
 
 
 **How to Run:**
+
 - Open a terminal or command prompt.
 
 - Navigate to the folder where media_player.py is saved.
@@ -54,12 +58,14 @@ README.md - Documentation and usage instructions.
 
 
 **Notes:**
+
 - Replace sample.mp3 with your own MP3 files if needed.
 
 - Ensure all media files are placed inside the media_player folder.
 
 
 **Built With:**
+
 - Python
 
 - Tkinter
