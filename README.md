@@ -13,65 +13,62 @@
 *MENTOR:* NEELA SANTHOSH KUMAR
 
 
-**Media Player App (Python)**
-
-A simple media player built using Python that allows you to play `.mp3` audio files. It uses the `tkinter` library for the graphical user interface and the `pygame` library for audio playback.
+**Media Player App**
+This is a simple Python-based media player that plays MP3 audio files using a graphical interface. It uses the pygame library for audio and tkinter for the GUI.
 
 
 **Project Structure**
+media_player_app.py — The main script that runs the media player.
 
-media_player_app/
-│
-├── media_player_app.py # Main Python file
-├── media_player/ # Folder containing media files
-│ └── sample.mp3 # Sample MP3 file to play
-└── README.md # Project documentation
+  media_player/ — A folder containing audio files.
 
+    sample.mp3 — A sample MP3 file included for demo purposes.
 
-**Features**
-
-- Play and Stop `.mp3` files
-- Simple and clean graphical interface
-- Sample audio file included for quick testing
+README.md — Documentation and usage instructions.
 
 
-**Requirements**
+**Features:**
+- Play and stop MP3 audio.
 
-- Python 3.x
-- `pygame` library
+- Simple and user-friendly interface.
 
-**Install required package using pip:**
-
-```bash
-pip install pygame
+- Comes with a sample audio file for testing.
 
 
-**How to run:**
+**Requirements:**
+- Python 3.x installed on your system.
 
-- Make sure you have Python and pygame installed.
-
-- Place your .mp3 file(s) inside the media_files/ folder.
-
-- Run the Python script:
-
-bash
-Copy
-Edit
-python media_player.py
-- Use the buttons in the GUI to Play or Stop the sample music.
+- pygame library installed (pip install pygame from terminal or command prompt).
 
 
-**Notes**
-- The sample file sample.mp3 is included for testing.
+**How to Run:**
+- Open a terminal or command prompt.
 
-- You can replace or add more .mp3 files inside the media_files/ folder.
+- Navigate to the folder where media_player.py is saved.
+
+- Run the Python file using your Python interpreter.
+
+- Use the GUI buttons to play or stop the audio.
+
+- Make sure the sample.mp3 file is inside the media_files folder in the same directory as your script.
 
 
-**Made With:**
+**Notes:**
+- Replace sample.mp3 with your own MP3 files if needed.
 
-- tkinter – for GUI
+- Ensure all media files are placed inside the media_player folder.
 
-- pygame.mixer – for playing audio
+
+**Built With:**
+- Python
+
+- Tkinter
+
+- Pygame Mixer
+
+
+**Output:**
+
 
 
 **Output:**
