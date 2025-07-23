@@ -18,13 +18,13 @@ This is a simple Python-based media player that plays MP3 audio files using a gr
 
 
 **Project Structure**
-media_player_app.py — The main script that runs the media player.
+media_player_app.py - The main script that runs the media player.
 
-  media_player/ — A folder containing audio files.
+  media_player - A folder containing audio files.
 
-    sample.mp3 — A sample MP3 file included for demo purposes.
+      sample.mp3 -  A sample MP3 file included for demo purposes.
 
-README.md — Documentation and usage instructions.
+README.md - Documentation and usage instructions.
 
 
 **Features:**
@@ -70,6 +70,4 @@ README.md — Documentation and usage instructions.
 **Output:**
 
 
-
-**Output:**
 
