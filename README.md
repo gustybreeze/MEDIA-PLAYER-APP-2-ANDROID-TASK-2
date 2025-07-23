@@ -73,7 +73,11 @@ README.md - Documentation and usage instructions.
 - Pygame Mixer
 
 
-**Output:**
+**Developed by:**
+*Sameer Kumar Mishra*
 
+
+**Output:**
+<img width="972" height="855" alt="Image" src="https://github.com/user-attachments/assets/16e3f375-e0ac-499a-a0e3-a3be0be06457" />
 
 
