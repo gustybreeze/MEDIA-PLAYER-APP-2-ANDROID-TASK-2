@@ -1,19 +1,3 @@
-# MEDIA-PLAYER-APP-2-ANDROID-TASK-2
-
-*COMPANY:* CODTECH IT SOLUTIONS PVT.LTD
-
-*NAME:* SAMEER KUMAR MISHRA
-
-*INTERN ID:* CT04DZ379
-
-*DOMAIN:* PYTHON PROGRAMMING
-
-*DURATION:* 4 WEEKS
-
-*MENTOR:* NEELA SANTHOSH KUMAR
-
-
-
 **Media Player App**
 
 This is a simple Python-based media player that plays MP3 audio files using a graphical interface. It uses the pygame library for audio and tkinter for the GUI.
